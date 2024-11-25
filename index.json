@@ -1,0 +1,32 @@
+[
+    {
+        "Id": "Monday",
+        "title": "Blues",
+        "content": "Do not get discouraged by Monday blues",
+        "userId": "Sloath51"
+    },
+    {
+        "Id": "Tuesday",
+        "title": "Motivation",
+        "content": "Get a motivational quote to help you get through your workday",
+        "userId": "Artemis26"
+    },
+    {
+        "Id": "Wednesday",
+        "title": "Wacky",
+        "content": "Be creative and think outside of the box",
+        "userId": "Wrath02"
+    },
+    {
+        "Id": "Thursday",
+        "title": "Progress",
+        "content": "Track your progress so far",
+        "userId": "Envy32"
+    },
+    {
+        "Id": "Friday",
+        "title": "Positivity",
+        "content": "End your work week on a high note",
+        "userId": "Greed16"
+    }
+]
